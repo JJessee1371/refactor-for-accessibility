@@ -1,3 +1,4 @@
+/* Box styles and background color for page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,6 +57,7 @@ p {
     font-size: 16px;
 }
 
+/* Main image styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* Main content section styles */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,6 +102,7 @@ p {
     margin-left: 25px;
 }
 
+/* Benefits sidebar styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/*Footer styles */
 footer {
     padding: 30px;
     clear: both;
