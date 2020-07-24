@@ -38,12 +38,17 @@ header div ul {
 
 header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 25px;   
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #15e7c4;
 }
 
 p {
